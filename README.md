@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Xavier</h1>
-<h3 align="center">A passionate backend developer from Texas</h3>
+<h3 align="center">A passionate software engineer from Texas</h3>
 
 🔭 Currently working on:
   - [my game entitled: Tales of Tiler](https://github.com/xavier-mejia/4423-final-project)
